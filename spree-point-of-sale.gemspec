@@ -29,4 +29,3 @@ Gem::Specification.new do |s|
   s.add_dependency('prawn', '>=0')
   s.add_dependency('chunky_png', '>=0')
 end
-.
